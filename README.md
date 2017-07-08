@@ -1,2 +1,2 @@
 # nodeFun
-Cannot decide on  framewor yet express, meteor, sails... dunno
+Cannot decide on  framework yet express, meteor, sails... dunno
