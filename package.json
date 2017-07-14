@@ -1,0 +1,24 @@
+{
+  "name": "jsonauthenticatedchat",
+  "version": "1.0.0",
+  "description": "lets make an awesome chat on express, mongodb, websockets and json authentication",
+  "main": "myfirstmodule.js",
+  "dependencies": {
+    "mongodb": "^2.2.30",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorbertNader/nodeFun.git"
+  },
+  "author": "NorbertNAder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NorbertNader/nodeFun/issues"
+  },
+  "homepage": "https://github.com/NorbertNader/nodeFun#readme"
+}
