@@ -4,8 +4,12 @@
   "description": "lets make an awesome chat on express, mongodb, websockets and json authentication",
   "main": "myfirstmodule.js",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
     "mongodb": "^2.2.30",
+    "mongoose": "^4.11.2",
+    "morgan": "^1.8.2",
     "socket.io": "^2.0.3"
   },
   "devDependencies": {},
